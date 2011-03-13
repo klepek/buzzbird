@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Buzzbird
+GenericName=Buzzbird
+Comment=twitter and identi.ca desktop client
+Exec=buzzbird
+Icon=buzzbird
+Terminal=false
+Type=Application
+Categories=Network;
+
